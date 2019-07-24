@@ -1,0 +1,6 @@
+1,Arpitha,M.Tech,80000,CSE
+2,Raji,B.Tech,79000,ISE
+3,Madhusha,PhD,90000,CSE
+4,Madhu,BE,95000,ISE
+5,Anu,BE,100000,CSE
+6,Sam,M.Tech,50000,CSE

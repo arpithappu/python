@@ -1,0 +1,4 @@
+1.The Battle of Plassey was fought in,1757,1782,1748,1764,A
+2.What is part of a database that holds only one type of information,Report,Field,Record,File,B 
+3.'.MOV' extension refers usually to what kind of file,Image file,movie file,Audio file,MS Office,B
+4.'.MPG' extension refers usually to what kind of file,Word document,MS Offic,movie file,Image file,C

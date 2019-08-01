@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./css/main.css">
+    <script type="text/javascript">
+        function showMessage(f){
+            if(f=="happy")
+            message="Be Happy Enjoy your day"
+            else if(f=="sleepy")
+            message="Avoid using phone,have a little lunch and sleep"
+            else if(f=="angry")
+            message="Avoid salt and do meditation"
+            document.getElementById("data").innerHTML="<h2>"+message+"</h2>"
+        }
+    </script>
+    <title>Document</title>
+</head>
+<body>
+    <h1>how are you feeling today!</h1>
+    
+        
+            <img src="happy.jpg" alt="Happy" style="width: 15%" onclick="showMessage()">
+        
+      
+            <img src="sleep.jpg" alt="Sleep" style="width: 10%" onclick="showMessage()">
+        
+                <img src="angry.jpg" alt="Angry" style="width: 10%" onclick="showMessage()">
+        
+
+    <div id ="res"></div>
+</body>
+</html>

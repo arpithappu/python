@@ -1,0 +1,26 @@
+body{
+    width: 80%;
+    margin:auto;
+}
+#pname{
+    text-align:center
+
+}
+hr{
+    height: 2px;
+    background-color: green;
+}
+h3{
+    widows: 100%;
+    background-color: grey;
+}
+table{
+    width: 100%;
+}
+table th{
+    background-color: green;
+    color: white;
+}
+table th,td{
+    border-bottom: 1px solid gray;
+}
